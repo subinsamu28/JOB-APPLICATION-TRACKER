@@ -1,10 +1,10 @@
-# 🚀 Job Application Tracker
 
-A clean, modern, privacy-first web app to organize your entire job search — from applications to interviews, offers, analytics, and documents.  
-Built with **React, TypeScript, Vite, Tailwind CSS, shadcn/ui**, and **Recharts**.
+  ## Running the code
 
-🌐 Live Demo: https://subinsamu28.github.io/Job-Application-Tracker/
+  Run `npm i` to install the dependencies.
 
+  Run `npm run dev` to start the development server.
+  
 ---
 
 ## ✨ Key Features
